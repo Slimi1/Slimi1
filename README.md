@@ -7,7 +7,7 @@
 
 - ⚡ Fun fact **I am always looking for people to work with, or even a job!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
