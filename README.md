@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, html and css**
 
-- 📫 How to reach me **Slimi#0001**
+- 📫 How to reach me **slimi0** (Discord)
 
 - ⚡ Fun fact **I am always looking for people to work with, or even a job!**
 
