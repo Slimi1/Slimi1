@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Slimi</h1>
 - 🌱 I’m currently learning **Web Development, python**
+
 - 📫 How to reach me **contact@slimi.xyz or slimi2 on discord**
 - ⚡ Fun fact **I am always looking for people to work with, or even a job!**
 
