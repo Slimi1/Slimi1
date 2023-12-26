@@ -34,5 +34,5 @@ I've been learning to code for the past year, I started with python and got into
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/slimi"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
 </ul>
-### Sponsor
+
 
