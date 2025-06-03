@@ -4,7 +4,8 @@ Hi 👋 My name is Slimi
 Web Developer
 -------------
 
-I've been learning to code for the past year, I started with python and got into web development. I found a passion in backend and frontend development, my plan is to become a full-stack developer.
+boop
+i don't know what to put here for the time being...
 
 * 🌍  I'm based in Finland
 * ✉️  You can contact me at [contact@slimi.xyz](mailto:contact@slimi.xyz)
